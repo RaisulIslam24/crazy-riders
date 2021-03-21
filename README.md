@@ -7,4 +7,4 @@
 
 ### Live Site Link
 
-Live site link here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Live site link here: [https://react-auth-43982.web.app/](https://react-auth-43982.web.app/)
