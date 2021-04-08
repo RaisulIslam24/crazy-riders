@@ -8,13 +8,13 @@
     {
         "id": 2,
         "name": "CAR",
-        "img": "https://i.ibb.co/PhTK7Tc/Frame-2.png",
+        "img": "https://i.ibb.co/cQdnSdz/Frame-2.png",
         "rideType": "Car"
     },
     {
         "id": 3,
         "name": "BUS",
-        "img": "https://i.ibb.co/qF91G0M/Frame-1.png",
+        "img": "https://i.ibb.co/NSmb6Ck/Frame-1.png",
         "rideType": "Bus"
     },
     {
