@@ -5,6 +5,9 @@
 2. User can log in and sign up using email and password.
 3. Available rides are showed.
 
+## Tools & Tecjhnology:
+HTML, CSS, Bootstrap, React.js, Dynamic Route
+
 ### Live Site Link
 
 Live site link here: [https://react-auth-43982.web.app/](https://react-auth-43982.web.app/)
